@@ -12,7 +12,7 @@ os.system('cls; clear')
 _0, __0, _______0, _____0, ________0 = 0, open("proxies.txt", encoding='utf-8').readlines(), 60, ThreadPoolExecutor(max_workers=int(100000)), 500
 ___0 = "MUNY9qKP" #Invite Code
 ____0 = 2500
-_________0 = "" #Username
+_________0 = "MUNY9qKP##" #Username
 __________0 = 3
 
 def _O():
